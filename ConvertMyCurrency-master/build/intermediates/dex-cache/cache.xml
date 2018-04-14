@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\2de5db21da3d98f162b358c774c6659bb6147dad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a79f0d390b0934d91b713e7d1902ae6d18ccd6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ConveryMyCurrency\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78325474ac1c8a167f8593902508e08c19485749">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fbcaf390ace15837007cc077fde80147008665ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\ed8b9ee907ab1c6945b203bf8a9b09e0f1eade37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_79d164bc459c736fc8618649e720c3cd48d4c7f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ConveryMyCurrency\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7a9b40a3306ab13d323d04f8233f12f8708eda9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\2357309027ba266678aedf0f548850d317c54e75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5480ba24a80a94fb7374d6f293d580bd5576256f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_57935b8c16bd1ad9249dc8eb6461f0923d01cbbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\a9b7bdcf08ba0f6ea380242059e245dd2844fc8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ad28480043e15d54d25385f7f61ed0876b83cd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\eb56ed62100467c7e2563cfafb2ed3471c23a495\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99f0c7bcbc3fc031c6c2684c8ed172382b2c13bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\3c027dcf25e27372904f93db33653c99d575d6e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c3071703eb26b9056766f9e490be652c8808ef0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_64092860b7614a87478f069decc14c3edc8e44e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\dbf7d54ff1619f667d99152d5109f30049f951fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a70c8075d98caea2e7c50d3a135a07fb2b6d2b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\7f650d8cf50f569bfa8edbb58f18e58d6cc47daf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d08a42e7a32734a307d719507adc3119cdc4806c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\3189ad690039f4893637db46ac608e74161a7fbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00a8df5eb959e4dc6de995e2280f2288db5b513d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\51523b12cb90461537800b7c713841a9aa9140df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c983dc7ea87bac849da15d1ba92bb6017e1deae5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\ef52f02a5213f5aa3a41aa09a4acb19ef7a386ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27b9c3a4fd989a6870c0b4ad59ed41c914bfa8f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\3070762cf1a7ddbd3e50a35a791c7095e8ce970d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec0aa226b49972957befa602c007f38489dafc13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\05ecfddda718ffc86350d8d4a169ce755b33d567\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2df574431b6119ff05e2606e3a31cced08836de7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kabar\.android\build-cache\0783b165b937aecaaaed2f270baae4be03bee350\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\ConveryMyCurrency\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a022d8dc4f4909d811ce32b7ed150203dc68501\classes.dex" />
+    </item>
+
+</items>

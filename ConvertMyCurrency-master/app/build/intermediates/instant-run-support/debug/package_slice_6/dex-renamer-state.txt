@@ -1,0 +1,4 @@
+#Fri May 12 22:39:28 EEST 2017
+base.0=C\:\\ConveryMyCurrency\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=C\:\\ConveryMyCurrency\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

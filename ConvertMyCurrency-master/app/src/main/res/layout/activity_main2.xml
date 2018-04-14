@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.kabar.converymycurrency.Main2">
+
+    <TextView
+        android:text="Enter Price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="56dp"
+        android:id="@+id/textView3"
+        android:textSize="20sp"
+        android:layout_below="@+id/editText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:gravity="top|left"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:layout_marginLeft="40dp"
+        android:layout_centerVertical="true"
+        android:layout_alignEnd="@+id/button2" />
+
+    <Spinner
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner2"
+
+        android:popupBackground="@color/Red"
+        android:layout_alignTop="@+id/spinner"
+        android:layout_alignParentEnd="true" />
+
+    <Spinner
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="111dp"
+        android:id="@+id/spinner"
+
+        android:popupBackground="@color/Red"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="9dp" />
+
+    <TextView
+        android:text="Currency to\nconvert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginBottom="13dp"
+        android:id="@+id/textView5"
+        android:layout_above="@+id/spinner2"
+        android:layout_alignStart="@+id/spinner" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="17dp"
+        android:id="@+id/textView6"
+        android:text="Currency to be converted"
+        android:layout_alignBaseline="@+id/textView5"
+        android:layout_alignBottom="@+id/textView5"
+        android:layout_alignStart="@+id/spinner2" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="90dip"
+        android:layout_height="wrap_content"
+        android:text="Convert"
+        android:layout_marginTop="8dp"
+        android:layout_alignTop="@+id/textView6"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView8"
+        android:textSize="32sp"
+        android:layout_marginTop="44dp"
+        android:layout_below="@+id/spinner"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:text="See The Graphic"
+        android:layout_marginTop="55dp"
+        android:layout_alignTop="@+id/textView3"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

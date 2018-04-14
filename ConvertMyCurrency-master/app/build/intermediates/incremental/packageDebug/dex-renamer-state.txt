@@ -1,0 +1,7 @@
+#Fri May 12 22:48:46 EEST 2017
+base.0=C\:\\ConveryMyCurrency\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fbcaf390ace15837007cc077fde80147008665ca
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\ConveryMyCurrency\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7a9b40a3306ab13d323d04f8233f12f8708eda9c\\classes.dex
+base.1=C\:\\ConveryMyCurrency\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7a9b40a3306ab13d323d04f8233f12f8708eda9c
+file.0=C\:\\ConveryMyCurrency\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fbcaf390ace15837007cc077fde80147008665ca\\classes.dex
